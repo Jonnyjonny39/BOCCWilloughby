@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BOCC Willoughby</string>
+    <string name="welcome_string">Welcome To The Body Of Christ Willoughby!</string>
+    <string name="welcome_btn">Tap To Check Us Out!</string>
+    <string name="mission_statement">
+
+
+The mission of the Body of Christ Community is to lead people into a growing relationship with Jesus Christ by reaching out to them with the love and compassion that Jesus first extended to us.
+    </string>
+    <string name="our_mission">Our Mission:</string>
+    <string name="pastor_mike">Sr. Pastor Michael Currier</string>
+    <string name="pastor_eric">Pastor Eric Leissa</string>
+    <string name="website_link">Tap For Our Website!</string>
+    <string name="website">Tap For Website!</string>
+    <string name="call_us">Call Us!</string>
+    <string name="join_us_string">Join Us For Worship Every Sunday 10am!</string>
+    <string name="address">Body of Christ Community | 38057 Erie Road, Willoughby, Ohio 44094</string>
+    <string name="firstScripture">
+        Therefore go and make disciples of all nations, baptizing them in the name of the Father, and of the Son and of the Holy Spirit and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.
+                                             (Matthew 28:19-20)
+    </string>
+    <string name="play1">Play</string>
+    <string name="dec24">Message From Dec 24/Pastor Mike</string>
+    <string name="dec241">December 24/Pastor Eric/Pastor Mike</string>
+    <string name="play2">Play</string>
+    <string name="latest_sermon">Latest Sermon! Jan 20/Pastor Eric/Pastor Mike</string>
+    <string name="devotion">Tap For Daily Devotions</string>
+    <string name="sermon_arch">Sermon Archives Here!</string>
+    <string name="latest_sermon_str2">Check Out Our Latest Sermon!</string>
+    <string name="p_eric_sermon">Sermon By Pastor Eric-Love One Another</string>
+    <string name="thank_you">Thank You So Much For Checking Out Our App! May The LORD BE WITH YOU In All That You Do!!And Feel Free To Contact Us At Anytime!!</string>
+</resources>
